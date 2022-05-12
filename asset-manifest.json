@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/newsApp/static/css/main.a18c93e4.css",
+    "main.js": "/newsApp/static/js/main.855a34a4.js",
+    "static/media/no-news-good-written-on-260nw-2143259661.webp": "/newsApp/static/media/no-news-good-written-on-260nw-2143259661.8a3ed9031c74d7327cba.webp",
+    "index.html": "/newsApp/index.html",
+    "main.a18c93e4.css.map": "/newsApp/static/css/main.a18c93e4.css.map",
+    "main.855a34a4.js.map": "/newsApp/static/js/main.855a34a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a18c93e4.css",
+    "static/js/main.855a34a4.js"
+  ]
+}
